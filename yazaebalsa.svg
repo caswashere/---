@@ -1,0 +1,13 @@
+<svg width="500" height="60" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="40" font-family="monospace" font-size="28" fill="#ff0000">
+    <tspan>
+      ya zabil shto hotel napisat
+      <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"
+      />
+    </tspan>
+  </text>
+</svg>
