@@ -1,8 +1,10 @@
 <p align="center">
   <img src="./ffuck.svg" alt="huh">
 </p>
+<p align="center">
+  <img src="./cf8d18b15cd32bc4e98a6711e1dd862c.jpg" alt="huh">
+</p>
 
-![hewp](cf8d18b15cd32bc4e98a6711e1dd862c.jpg)
 <p align="center">
   <font color="idk">casper. he / him ⏜︵ dnfi if rude/nøt understanding. (ør iwec) 
     alsø dni (ør w2i) if im ACTIVELY mid smth w/ my friends.
