@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100" viewBox="0 0 600 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
 
-<defs> <clipPath id="typing"> <rect x="120" y="0" width="0" height="100"> <animate attributeName="width" values="0;360;360;0;0" keyTimes="0;0.4;0.65;0.95;1" dur="5s" repeatCount="indefinite" /> </rect> </clipPath> </defs>
+<defs> <clipPath id="typing"> <rect x="0" y="0" width="0" height="100"> <animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.4;0.65;0.95;1" dur="5s" repeatCount="indefinite" /> </rect> </clipPath> </defs>
 
-<text x="300" y="60" text-anchor="middle" font-family="monospace" font-size="30" font-weight="bold" fill="#ff0000" clip-path="url(#typing)">
-shas skopiruyu pagadi drug
+<text x="400" y="62" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#ff0000" clip-path="url(#typing)">
+  djsjsjs
 </text>
 
 </svg>
