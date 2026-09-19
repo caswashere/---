@@ -16,7 +16,8 @@
   <img src="./fffuck.svg" alt="huh">
 </p>
 <p align="center">
-  <font color="idk">i løst my rank and title, i turned my back øn it.
+  <img src="./yazaebalsa.svg" alt="huh">
+</p>
 
 <p align="center">
   <img src="./2f2b7a4cc3ec2339c1ac7ce89bc98e81.jpg" alt="huh">
