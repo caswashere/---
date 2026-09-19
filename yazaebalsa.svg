@@ -1,9 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 28px;
+      fill: #ff0000;
+    }
 
-<defs> <clipPath id="typing"> <rect x="0" y="0" width="0" height="100"> <animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.4;0.65;0.95;1" dur="5s" repeatCount="indefinite" /> </rect> </clipPath> </defs>
+    .typing {
+      animation: typing 6s steps(42, end) infinite;
+    }
 
-<text x="400" y="62" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#ff0000" clip-path="url(#typing)">
-  yøu've gøt øne time tø figure it øut.
-</text>
+    .cursor {
+      fill: #ff0000;
+      animation: blink 0.7s steps(1) infinite;
+    }
 
+    @keyframes typing {
+      0%, 10% {
+        width: 0;
+      }
+
+      45%, 65% {
+        width: 720px;
+      }
+
+      95%, 100% {
+        width: 0;
+      }
+    }
+
+    @keyframes blink {
+      0%, 50% {
+        opacity: 1;
+      }
+      51%, 100% {
+        opacity: 0;
+      }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="typingClip">
+      <rect x="90" y="0" width="720" height="80">
+        <animate
+          attributeName="width"
+          values="0;0;720;720;0;0"
+          keyTimes="0;0.1;0.45;0.65;0.95;1"
+          dur="6s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#typingClip)">
+    <text
+      x="450"
+      y="50"
+      text-anchor="middle"
+      class="text"
+    >yøu've gøt øne time tø figure it øut.</text>
+  </g>
+
+  <rect
+    class="cursor"
+    x="90"
+    y="24"
+    width="3"
+    height="32"
+  >
+    <animate
+      attributeName="x"
+      values="90;90;810;810;90;90"
+      keyTimes="0;0.1;0.45;0.65;0.95;1"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+  </rect>
 </svg>
