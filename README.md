@@ -17,7 +17,9 @@
 <p align="center">
   <font color="idk">i løst my rank and title, i turned my back øn it.
 
-![me](2f2b7a4cc3ec2339c1ac7ce89bc98e81.jpg)
+<p align="center">
+  <img src="./2f2b7a4cc3ec2339c1ac7ce89bc98e81.jpg" alt="huh">
+</p>
 
 
 [![strawpage](./andts.svg)](https://t0rchbearer.straw.page/)
