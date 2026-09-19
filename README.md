@@ -5,7 +5,7 @@
 ![hewp](cf8d18b15cd32bc4e98a6711e1dd862c.jpg)
 <p align="center">
   <font color="idk">casper. he / him ⏜︵ dnfi if rude/nøt understanding. (ør iwec) 
-    alsø dni if im ACTIVELY mid smth w/ my friends. ør w2i.
+    alsø dni (ør w2i) if im ACTIVELY mid smth w/ my friends.
     im kind and will always respønd & c+h if i have energy / im nøt afk / i døn't have “dni, dniuf/cf” in my name. 
    be4 u interact, please read my strawpage. ♡゙ tysm 4 attentiøn !!   
   </text></font>
