@@ -3,7 +3,7 @@
     <text
       x="250"
       y="50"
-      text-anchor="middle"
+      text-anchor="center"
       font-size="24"
       fill="red">
       straw ( click ) .
