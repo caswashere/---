@@ -1,9 +1,10 @@
-<svg width="100%" height="90" viewBox="0 0 1000 90" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
 
   <style>
     .text {
       font-family: monospace;
       font-size: 32px;
+      font-weight: 700;
       fill: #ff0000;
     }
 
@@ -20,10 +21,10 @@
 
   <defs>
     <clipPath id="typing">
-      <rect x="100" y="0" width="800" height="90">
+      <rect x="100" y="0" width="1000" height="90">
         <animate
           attributeName="width"
-          values="0;0;800;800;0;0"
+          values="0;0;1000;1000;0;0"
           keyTimes="0;0.08;0.52;0.65;0.94;1"
           dur="7s"
           repeatCount="indefinite"
@@ -34,23 +35,23 @@
 
   <g clip-path="url(#typing)">
     <text
-      x="500"
+      x="600"
       y="57"
       text-anchor="middle"
       class="text"
-    >yøu've gøt øne time tø figure it øut.</text>
+    >i løst my rank and title, i turned my back øn it.</text>
   </g>
 
   <rect
     class="cursor"
     x="100"
     y="28"
-    width="3"
+    width="4"
     height="36"
   >
     <animate
       attributeName="x"
-      values="100;100;900;900;100;100"
+      values="100;100;1100;1100;100;100"
       keyTimes="0;0.08;0.52;0.65;0.94;1"
       dur="7s"
       repeatCount="indefinite"
