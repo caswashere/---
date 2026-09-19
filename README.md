@@ -10,7 +10,7 @@
    be4 u interact, please read my strawpage. ♡゙ tysm 4 attentiøn !!   
   </text></font>
 <p align="center">
-  <img src="./symbs.svg" alt="huh">
+  <img src="./fffuck.svg" alt="huh">
 </p>
 <p align="center">
   <font color="idk">i løst my rank and title, i turned my back øn it.
