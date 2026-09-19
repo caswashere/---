@@ -3,7 +3,7 @@
 <defs> <clipPath id="typing"> <rect x="0" y="0" width="0" height="100"> <animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.4;0.65;0.95;1" dur="5s" repeatCount="indefinite" /> </rect> </clipPath> </defs>
 
 <text x="400" y="62" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#ff0000" clip-path="url(#typing)">
-  djsjsjs
+  yøu've gøt øne time tø figure it øut.
 </text>
 
 </svg>
